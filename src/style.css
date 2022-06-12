@@ -85,3 +85,7 @@ main {
     font-size: 1.4rem;
     color: #61DAFB
 }
+
+.footer--text {
+    color: white;
+}
