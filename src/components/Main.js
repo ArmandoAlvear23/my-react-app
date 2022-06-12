@@ -1,9 +1,13 @@
-import React from "react";
-
 export default function Main() {
   return (
     <div>
-      <h1>Test Main</h1>
+      <h1>Reasons I'm excited to learn React</h1>
+      <ol>
+        <li>
+          It's a popular library, so It'll be able to fit in with the cool kids!
+        </li>
+        <li>I'm more likely to get a job as a developer if I know React</li>
+      </ol>
     </div>
   );
 }
